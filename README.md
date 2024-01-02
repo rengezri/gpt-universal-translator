@@ -52,9 +52,6 @@ Once the application is running, follow these steps to use the GPT Universal Tra
 3. **Translate:** After recording, click 'Translate' to translate the spoken language into your chosen language.
 4. **Text-to-Speech:** Listen to the translated text in the chosen language.
 
-## Contributing
-Contributions to the GPT Universal Translator are welcome. Please read the contributing guidelines before making a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
