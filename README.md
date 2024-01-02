@@ -1,7 +1,7 @@
 # GPT Universal Translator
 
 ## Introduction
-The GPT Universal Translator is a Python example application designed to provide near real-time audio-to-text translation using state-of-the-art speech recognition and translation models. This tool leverages the capabilities of Gradio for a user-friendly interface, Google's Text-to-Speech (TTS) and OpenAI's Whisper model and Elevenlabs speech for accurate speech recognition and translation across multiple languages.
+The GPT Universal Translator is a Python example application designed to provide near real-time audio-to-text translation using state-of-the-art speech recognition and translation models. This tool leverages the capabilities of Gradio for a user-friendly interface, Google's Text-to-Speech (TTS) and OpenAI's Whisper model and ElevenLabs speech for accurate speech recognition and translation across multiple languages.
 
 ## Features
 - **Near Real-time Speech Recognition:** Converts spoken language into text using Google's speech recognition or OpenAI's Whisper model.
