@@ -11,6 +11,8 @@ The GPT Universal Translator is a sophisticated Python application designed to p
 - **Support for Multiple Languages:** Works with numerous languages including English, Arabic, Chinese, French, German, Spanish, and more.
 - **User-Friendly Interface:** Built with Gradio, providing an easy-to-use graphical interface.
 
+<img src="./figures/GPT_Universal_Translator_GUI.png">
+
 ## Installation
 
 ### Prerequisites
